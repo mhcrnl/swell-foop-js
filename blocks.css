@@ -1,0 +1,9 @@
+table, th, td {
+	border: 0;
+	border-spacing: 1px;
+}
+td {
+	height: 25px;
+	width: 25px;
+	cursor: pointer;
+}
