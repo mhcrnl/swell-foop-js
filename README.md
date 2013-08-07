@@ -1,7 +1,7 @@
 Felp Swool
 ==========
 
-A game similiar to Gnome Games' Swell Foop written in HTML and JavaScript
+A game similar to Gnome Games' Swell Foop written in HTML and JavaScript
 
 
 Description
@@ -24,6 +24,6 @@ How to use
  1. In the terminal, navigate to a fun directory and type 'git clone https://github.com/zfletch/swell-foop-js'
  2. Download the latest version of jQuery (http://jquery.com/download/) to that directory
  3. Download jQuery Color (https://github.com/jquery/jquery-color) to that directory
- 4. Downlaod underscore.js (http://underscorejs.org/) to that directory
+ 4. Download underscore.js (http://underscorejs.org/) to that directory
  5. In blocks.html: make sure that the script tags' src attributes match the names of the libraries you downloaded in the previous steps.
  6. Open blocks.html in your favorite web browser and enjoy
