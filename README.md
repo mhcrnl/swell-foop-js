@@ -22,3 +22,4 @@ How to use
 ----------
 
 * Open blocks.html in a web browser and enjoy.
+* Try it out [here](https://zfletch.github.io/swell-foop-js/)
